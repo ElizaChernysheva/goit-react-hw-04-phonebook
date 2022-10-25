@@ -1,0 +1,17 @@
+.form__item:not(:first-child){
+  margin-top: 15px;
+}
+
+span{
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.form__button{
+  display: inline-block;
+  padding: 10px 15px;
+
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}

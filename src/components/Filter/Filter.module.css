@@ -1,0 +1,15 @@
+.form__wrapper{
+  max-width: 400px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.form__filter {
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+}
+
+.form__input{
+  margin-top: 15px;
+}
